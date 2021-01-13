@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "I moved"
+date:   2021-01-13
+categories: blog
+---
+
+Hey there I decided to stop hosting a dead blog, look around and you will see what I 've been doing lately.
+
+If you need to reach me send an email chris[at]komposta.net
